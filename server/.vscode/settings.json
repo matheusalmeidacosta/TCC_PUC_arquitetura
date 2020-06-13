@@ -1,8 +1,0 @@
-{
-    "appService.zipIgnorePattern": [
-        "node_modules{,/**}",
-        ".vscode{,/**}"
-    ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/3a8f3cba-a101-474b-ae43-82b1cafec0c4/resourceGroups/tcc_puc/providers/Microsoft.Web/sites/qualymotors",
-    "appService.deploySubpath": "."
-}
