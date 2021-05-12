@@ -22,7 +22,7 @@
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "morgan": "^1.10.0",
-    "nodemailer": "^6.4.8"
+    "nodemailer": "^6.4.16"
   },
   "devDependencies": {
     "json-server": "^0.16.1",
